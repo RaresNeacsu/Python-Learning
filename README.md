@@ -1,1 +1,0 @@
-In this repository i am going to learn the basics of python. This is the first step in my journey in data science and ML.

@@ -1,5 +1,0 @@
-name=input("What is your name? ")
-age=int(input("What is your age? "))
-print(type(name))
-print(type(age))
-print("Hello, " + name + "! You are " + str(age) + " years old.")

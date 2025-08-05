@@ -1,5 +1,6 @@
 name=input("What is your name? ")
 age=int(input("What is your age? "))
+ocupation=input("What is your occupation? ")
 print(type(name))
 print(type(age))
-print("Hello, " + name + "! You are " + str(age) + " years old.")
+print("Hello, " + name + "! You are " + str(age) + " years old and work as a " + ocupation + ".")
